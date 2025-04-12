@@ -1,0 +1,11 @@
+AFA Fusion X,1000
+AFA Odyssey Ultra,799
+AFA Odyssey,749
+AFA Nexus Pro,599
+AFA Nexus,549
+AFA Horizon Elite,499
+AFA Horizon,399
+AFA Galaxy Z,349
+AFA Xperia,300
+AFA Lynx,200
+AFA Galaxy,200
